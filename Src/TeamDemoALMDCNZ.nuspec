@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>TeamDemoALMDCNZ</id>
+    <version>1.0.0</version>
+    <title>Team Demo ALM DC NZ</title>
+    <authors>Clyde D'Souza</authors>
+    <owners>clyded-datacom</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!--
+	    <projectUrl>https://github.com/ClydeDz/horoscope-nuget/wiki</projectUrl>
+      <repository url="https://github.com/ClydeDz/horoscope-nuget" />
+    -->
+    <iconUrl>https://via.placeholder.com/64.png</iconUrl>
+    <description>Demo package.</description>
+    <summary>Demo package.</summary>
+    <releaseNotes>Enter release notes here</releaseNotes>
+    <copyright>Copyright (c) 2019 Clyde D'Souza</copyright>
+    <tags>demo nuget experimentation</tags>
+   <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+</package>
